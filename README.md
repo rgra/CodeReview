@@ -1,2 +1,2 @@
 # CodeReview
-Pull Request Demo
+Demo for Pull Request Reviews via GitHub
